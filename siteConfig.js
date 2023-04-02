@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "http://indexparty.co.il", // Site domain. Do not include a trailing slash!
+  siteUrl: "http://infodescontos.net", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "indexparty", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "infodescontos", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "indexparty", // This allows an alternative site description for meta data for pages.
+    "infodescontos", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "indexparty", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "infodescontos", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: true,
-    title: "indexparty",
+    title: "infodescontos",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://indexparty.co.il/",
+        url: "https://infodescontos.net/",
       },
       {
         label: "יצירת קשר",
-        url: "https://indexparty.co.il/contact",
+        url: "https://infodescontos.net/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://indexparty.co.il/",
+        url: "https://infodescontos.net/",
       },
       {
         label: "Sitemap",
-        url: "https://indexparty.co.il/sitemap.xml",
+        url: "https://infodescontos.net/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://indexparty.co.il/contact",
+        url: "https://infodescontos.net/contact",
       },
      
     ],
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "indexparty",
+    title: "infodescontos",
     description:
-      "indexparty",
+      "infodescontos",
   },
   twitterCard: {
     title: "",
@@ -88,9 +88,9 @@ module.exports = {
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "indexparty",
+  siteTitle: "infodescontos",
   siteDescription:
-    "indexparty",
+    "infodescontos",
   language: "he",
   logoUrl: "",
   iconUrl: "",
